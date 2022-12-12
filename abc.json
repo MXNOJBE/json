@@ -1,0 +1,39 @@
+{
+	"random": "65",
+	"random float": "3.375",
+	"bool": "true",
+	"date": "1999-10-11",
+	"regEx": "helloooooooooooooooooooooooooooooooooooooooooooooooo to you",
+	"enum": "online",
+	"firstname": "Paulita",
+	"lastname": "Richers",
+	"city": "Birkirkara",
+	"country": "Ghana",
+	"countryCode": "PY",
+	"email uses current data": "Paulita.Richers@gmail.com",
+	"email from expression": "Paulita.Richers@yopmail.com",
+	"array": [
+		"Kaja",
+		"Constance",
+		"Carlie",
+		"Marcelline",
+		"Sidoney"
+	],
+	"array of objects": [
+		{
+			"index": "0",
+			"index start at 5": "5"
+		},
+		{
+			"index": "1",
+			"index start at 5": "6"
+		},
+		{
+			"index": "2",
+			"index start at 5": "7"
+		}
+	],
+	"Isa": {
+		"age": "99"
+	}
+}
